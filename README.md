@@ -1,6 +1,6 @@
 [![MasterHead](https://thumbs.gfycat.com/BetterHandmadeGull-size_restricted.gif)](https://www.linkedin.com/in/rutvikjoshi001/)
 <h1 align="center">Hi 👋, I'm Rutvik Joshi</h1>
-<h3 align="center">An aspiring Robotics Software Engineer from Mumbai</h3>
+<h3 align="center">An aspiring Artificial Intelligence Engineer from Mumbai</h3>
 <img align="right" alt="Coding" width="150" src="https://www.smatbot.com/blog/wp-content/uploads/2018/02/Hi-Animation-without-background-.gif">
 
 
@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Robot Operating System**
 
-- 👯 I’m looking to collaborate on **Robotics Software projects**
+- 👯 I’m looking to collaborate on **AI projects**
 
 - 📫 How to reach me **rutvikjoshi63@gmail.com**
 
