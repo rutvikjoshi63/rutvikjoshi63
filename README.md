@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [Open Steel Design and Graphics](https://github.com/osdag-admin/Osdag)
 
-- 🌱 I’m currently learning **Robot Operating System**
+- 🌱 I’m currently learning **Artificial Intelligence & Robot Operating System**
 
 - 👯 I’m looking to collaborate on **AI projects**
 
