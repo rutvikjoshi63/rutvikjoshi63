@@ -32,3 +32,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rutvikjoshi63&show_icons=true&locale=en" alt="rutvikjoshi63" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rutvikjoshi63&" alt="rutvikjoshi63" /></p>
+
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/rutvikjoshi63/langs)](https://githubtrends.io)
