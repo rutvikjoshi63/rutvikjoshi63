@@ -33,3 +33,10 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rutvikjoshi63&" alt="rutvikjoshi63" /></p>
 
+<a href="https://githubtrends.io">
+  <img align="center" src="https://api.githubtrends.io/user/svg/rutvikjoshi63/repos?time_range=all_time&include_private=True&loc_metric=changed&group=private" />
+</a>
+<a href="https://githubtrends.io">
+  <img align="center" src="https://api.githubtrends.io/user/svg/rutvikjoshi63/langs?time_range=all_time&include_private=True&loc_metric=changed" />
+</a>
+<!-- [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/rutvikjoshi63/langs)](https://githubtrends.io) -->
